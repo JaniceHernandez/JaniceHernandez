@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi there, I'm Janice Hernandez👋</h1>
+
+<p>A Computer Science student.</p>
+
+<h2>Education</h2>
+BS Computer Science</br>
+New Era University</br>
+2023-Present
+
+<h2>Certifications</h2>
+None
+
+<h2>Skills Sets</h2>
+Programming: Java, Python</br>
+Databases: IBM DB2, AWS RDS</br>
+Tools: Lucidhart, Eclipse, NetBeans
