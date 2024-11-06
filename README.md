@@ -1,4 +1,4 @@
-/** Hi there 👋*/
+
 
 <!--
 **JaniceHernandez/JaniceHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <p>A Computer Science student.</p>
 
 <h2>Education</h2>
-BS Computer Science</br>
-New Era University</br>
-2023-Present
+Bachelor of Science in Computer Science</br>
+<em>New Era University</em></br>
+<p style="font-family:'Courier New'" style="font-size:11px">2023-Present</p>
 
 <h2>Certifications</h2>
 <a href="https://courses.cognitiveclass.ai/certificates/76cf3e5d09df467c8b46fe49b6b3f0e7">SQL and Relational Databases 101</a>
